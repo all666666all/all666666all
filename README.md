@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=480&height=50&lines=Science+%E2%86%92+AI+%2F+Data;%E7%94%A8%E6%95%B0%E6%8D%AE%E8%A7%A3%E8%AF%BB%E7%94%9F%E5%91%BD" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=30&duration=3500&pause=1200&color=86868B&center=true&vCenter=true&width=480&height=50&lines=%E6%88%91%E8%AE%A8%E5%8E%8C%E8%9F%91%E8%9E%82;I+hate+cockroach" alt="" />
 
 <br>
 
