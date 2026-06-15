@@ -2,9 +2,9 @@
 
 <br>
 
-# Chengzong
+# Cockroach
 
-<sub>Computational Biology · Data Science</sub>
+<sub>Data Science</sub>
 
 <br>
 
@@ -16,9 +16,7 @@
 
 <br>
 
-I come from the life sciences, now moving toward **AI & data**.  
-I work where biology meets machine learning —  
-turning experiments into datasets, and datasets into understanding.
+from sciences, now moving toward **AI & data**.  
 
 <sub>持续地学习...</sub>
 
