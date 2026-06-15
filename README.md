@@ -32,20 +32,6 @@ from sciences, now moving toward **AI & data**.
 
 <br>
 
-## GitHub
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=all666666all&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=1d1d1f&text_color=515154&icon_color=0071e3&bg_color=ffffff00#gh-light-mode-only" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=all666666all&layout=compact&hide_border=true&langs_count=6&title_color=1d1d1f&text_color=515154&bg_color=ffffff00#gh-light-mode-only" />
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=all666666all&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f5f5f7&text_color=86868b&icon_color=2997ff&bg_color=00000000#gh-dark-mode-only" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=all666666all&layout=compact&hide_border=true&langs_count=6&title_color=f5f5f7&text_color=86868b&bg_color=00000000#gh-dark-mode-only" />
-
-</div>
-
-<br>
-
 <div align="center">
 <sub>「 Let the data tell the story of life. 」</sub>
 </div>
